@@ -1,4 +1,4 @@
-## This code (plotWing.ipynb) defines a function "plotWing", and use plotly to create a 3D delta wing model.
+## This code (plotWing.ipynb) defines a function "plotWing", and uses plotly to create a 3D delta wing model.
   - The delta wing has a NACA0012 cross section. 
   - On the surface, there is a triangle region that shows a pressure map, which is interpolated by "griddata" function, and the pressure data comes from 15 pressure ports. These 15 pressure ports are also shown on the surface.
   - The two pink cycles are ploted in inkscape. Although this can be done in python, it is really convenient to do that in inkscape.
