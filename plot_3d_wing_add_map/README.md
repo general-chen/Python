@@ -12,5 +12,6 @@
   - how to save the interactive plotly figure as svg.
   - how to set surface color and color scale.
   - how to set color bar, the tracks of the 3d scattered points.
+  - how to add text to the figure using annotations.
   
 If you use plotly to plot 3d figures, my code is really a good reference.
