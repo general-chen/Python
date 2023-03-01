@@ -1,3 +1,6 @@
+<img src="https://github.com/general-chen/Python/blob/808df21d971d293f19fb2793279eac592f3848ca/experiment_uncertainty/Lift_Coefficient_with_Error_Bars.png" width="500">
+
+
 The formula dcl_arr = (df_arr/f_arr) + 2*(drho/rho) + (du/u) + 2*(darea/area) can be derived using the first-order Taylor series expansion of the lift coefficient cl about the nominal values of the input variables.
 
 The first-order Taylor series expansion of a function f(x1, x2, ..., xn) about the point (a1, a2, ..., an) is given by:
