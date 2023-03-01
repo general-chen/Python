@@ -4,3 +4,6 @@
 **In the context of the code provided earlier, k_max is the maximum wavenumber that can be resolved by the velocity field. It is calculated as k_max = np.sqrt(2) * np.pi / L, where L is the length of the domain.**
 
 **The reason for this is related to the Nyquist sampling theorem, which states that in order to accurately represent a signal (in this case, the velocity field), the sampling rate (in this case, the resolution of the numerical grid) must be at least twice the maximum frequency in the signal. In Fourier space, the maximum frequency corresponds to the maximum wavenumber, which is k_max = np.sqrt(2) * np.pi / L for a periodic domain. Therefore, any wavenumber beyond this value will not be accurately resolved by the numerical grid, and will lead to aliasing errors.**
+
+<img src="https://github.com/general-chen/Python/blob/c666a5d4c7fd853cbff0dada11a1572c3c485e4c/turbulent_wavenumber_sprecxtrum/Turbulent_spectrum.png" width="500">
+<img src="https://github.com/general-chen/Python/blob/c666a5d4c7fd853cbff0dada11a1572c3c485e4c/turbulent_wavenumber_sprecxtrum/Velocity_Field.png" width="500">
