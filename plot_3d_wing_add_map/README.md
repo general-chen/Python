@@ -4,7 +4,7 @@
   - The two pink cycles are ploted in inkscape. Although this can be done in python, it is really convenient to do that in inkscape.
   - I will upload the CP_plot_map.csv file once I finish my project.
 
-![this is the link of the figure](https://github.com/general-chen/Python/blob/392f00575ead6e11b8d3fa715f8bb7adb46fe091/plot_3d_wing_add_map/deltawing_noFilter.png)
+![this is the link of the figure](https://github.com/general-chen/Python/blob/392f00575ead6e11b8d3fa715f8bb7adb46fe091/plot_3d_wing_add_map/deltawing_both_differ_p_map.png)
 
 ## This code contains many useful information of the function "plotly":
   - how to plot multiple elements in one figure (in my code, there is a 3d delta wing, a triangle pressure map, 15 scattered points).
